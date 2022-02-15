@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://images.velog.io/images/daymoon_/post/914a8682-9cc2-4282-928a-2a432a2f0fdd/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001%20(1).png)
 
 <!--
 **Lmi1017/Lmi1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
