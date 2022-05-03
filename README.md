@@ -20,6 +20,8 @@
   <h3>🗃️ ETC. Stack 🗃️</h3>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/></a>&nbsp
 </div>
 
 <br/><br/>
@@ -31,7 +33,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=Zoom&logoColor=white"/></a>&nbsp
-
 </div>
 
 <br/><br/>
